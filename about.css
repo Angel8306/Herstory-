@@ -5,19 +5,18 @@ body {
 }
 .paragraph{
   text-align:left;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 1.25em;
 }
 h1{
   text-align:left;
   font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 3em;
-  font-weight: bold;
 }
 h2{
   text-align:left;
   font-family: 'Alegreya Sans SC', sans-serif;
-  white-space: nowrap;
+  2em;
 }
 
 #caption{
@@ -65,4 +64,3 @@ A:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none }
 #nav-link {
     color: #969696;
 }
-#mc_embed_signup{background:black; clear:left; font:14px Helvetica,Arial,sans-serif; }
